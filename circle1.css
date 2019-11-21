@@ -1,0 +1,51 @@
+body{
+  background-color:lightblue;
+}
+nav{
+  border:2px solid red;
+  padding:5px 15px 5px 15px;
+}
+a{
+  margin-left: 200px;
+}
+h1{
+text-align:center;
+background-color: green;
+font-family: sans-serif;
+color:white;
+}
+.left-container{
+float:left;
+margin-left: 2%;
+padding:5px;
+}
+
+.right-container{
+float:left;
+margin-left: 2%;
+padding:5px;
+}
+.special
+{
+width:200px;
+height:200px;
+border:2px solid black;
+border-radius: 100px;
+background-color: red;
+margin-left: 50px;
+}
+.samosa
+{
+width:200px;
+height:200px;
+border:2px solid black;
+border-radius:100px;
+background-color:yellow;
+margin-left: 50px;
+}
+footer{
+text-align: center;
+color:yellow;
+background-color: black;
+margin-top: 300px;
+}

@@ -1,0 +1,63 @@
+  body{
+       background-color:skyblue;
+      }
+   h1 {
+       background-color: red;
+       color:white;
+       text-align: center;
+      }
+   .left-container{
+                    width:47%;
+                    height:300px;
+                    background-color:blue;
+                    border:2px solid red;
+                    border-radius: 5px;
+                    float:left;
+                    margin-left: 2%;
+                  }
+   .right-container{
+                     width:47%;
+                     height:300px;
+                     background-color:blue;
+                     border:2px solid red;
+                     border-radius: 5px;
+                     float:left;
+                     margin-left: 2%;
+                   }
+
+   .samosa{
+           width:200px;
+           height:200px;
+           border:2px solid purple;
+           border-radius: 100px;
+           background-color:orange;
+           float:left;
+           margin: 30px 50px;
+          }
+   .icecream{
+             width:200px;
+             height:200px;
+             border:2px solid purple;
+             border-radius: 100px;
+             background-color:white;
+             float:left;
+             margin:30px 50px;
+           }
+   .gulabjam{
+             width:200px;
+             height:200px;
+             border:2px solid purple;
+             border-radius: 100px;
+             background-color:green;
+             float:left;
+             margin: 30px 50px;
+            }
+    .coffee{
+            width:200px;
+            height:200px;
+            border:2px solid purple;
+            border-radius: 100px;
+            background-color:orange;
+            float:left;
+            margin: 30px 50px;
+           }
